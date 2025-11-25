@@ -1,6 +1,6 @@
 # Load-test-on-D.C-Shunt-Generator
-### Name:Ahamed Naeem M
-### Reg no:212223210002
+### Name: Kalaiselvan J
+### Reg no: 212223080022
 ## Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 ## Apparatus Required:
